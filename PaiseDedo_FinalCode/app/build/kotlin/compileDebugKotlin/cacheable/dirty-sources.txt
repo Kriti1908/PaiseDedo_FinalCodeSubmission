@@ -1,0 +1,13 @@
+/home/kritigupta/Kriti/Meg'24/AdaMLS_Mobile-main-modified/app/src/main/java/org/tensorflow/lite/examples/objectdetection/ObjectDetectorHelper.kt
+/home/kritigupta/Kriti/Meg'24/AdaMLS_Mobile-main-modified/app/build/generated/source/navigation-args/debug/org/tensorflow/lite/examples/objectdetection/fragments/PermissionsFragmentDirections.kt
+/home/kritigupta/Kriti/Meg'24/AdaMLS_Mobile-main-modified/app/build/generated/source/navigation-args/debug/org/tensorflow/lite/examples/objectdetection/fragments/CameraFragmentDirections.kt
+/home/kritigupta/Kriti/Meg'24/AdaMLS_Mobile-main-modified/app/src/main/java/org/tensorflow/lite/examples/objectdetection/fragments/CameraFragment.kt
+/home/kritigupta/Kriti/Meg'24/AdaMLS_Mobile-main-modified/app/src/main/java/org/tensorflow/lite/examples/objectdetection/Detection.kt
+/home/kritigupta/Kriti/Meg'24/AdaMLS_Mobile-main-modified/app/build/generated/source/navigation-args/debug/org/tensorflow/lite/examples/objectdetection/fragments/HomeFragmentDirections.kt
+/home/kritigupta/Kriti/Meg'24/AdaMLS_Mobile-main-modified/app/src/main/java/org/tensorflow/lite/examples/objectdetection/MainActivity.kt
+/home/kritigupta/Kriti/Meg'24/AdaMLS_Mobile-main-modified/app/src/main/java/org/tensorflow/lite/examples/objectdetection/fragments/PermissionsFragment.kt
+/home/kritigupta/Kriti/Meg'24/AdaMLS_Mobile-main-modified/app/src/main/java/org/tensorflow/lite/examples/objectdetection/Category.kt
+/home/kritigupta/Kriti/Meg'24/AdaMLS_Mobile-main-modified/app/src/main/java/org/tensorflow/lite/examples/objectdetection/OverlayView.kt
+/home/kritigupta/Kriti/Meg'24/AdaMLS_Mobile-main-modified/app/src/main/java/org/tensorflow/lite/examples/objectdetection/fragments/HomeFragment.kt
+/home/kritigupta/Kriti/Meg'24/AdaMLS_Mobile-main-modified/app/src/main/java/org/tensorflow/lite/examples/objectdetection/MetricsLogger.kt
+/home/kritigupta/Kriti/Meg'24/AdaMLS_Mobile-main-modified/app/src/main/java/org/tensorflow/lite/examples/objectdetection/PoseDetectorHelper.kt
